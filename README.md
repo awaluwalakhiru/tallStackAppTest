@@ -12,4 +12,9 @@ Follow this steps :
 7. php artisan db:seed
 8. testing dengan php artisan test
 
+notice:
+kalau mau run langsung dari in folder
+jangan lupa php artisan serve
 
+
+https://github.com/awaluwalakhiru/tallStackAppTest.git
